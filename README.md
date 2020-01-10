@@ -1,0 +1,2 @@
+# CanMan
+Angular test project
